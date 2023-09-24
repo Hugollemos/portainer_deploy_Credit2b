@@ -1,6 +1,6 @@
 #!/bin/bash
 # Defina suas variáveis
-URL=$URL
+URL=$API_URL
 API_KEY=$API_KEY
 STACK_NAME=$STACK_NAME
 FILE_PATH=$FILE_PATH
